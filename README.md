@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Karlson
+- 👋 Hi, I’m Karlson (obviously not my real name)
 - 👀 I’m interested in something?
 - 🌱 I’m currently learning nothing._.
 - 💞️ I’m looking to collaborate on nothing
