@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Karlson (obviously not my real name)
+- 👋 Hi, I’m TheAtronic
 - 👀 I’m interested in something?
 - 🌱 I’m currently learning HTML, CSS and JAVA
 - 💞️ I’m looking to collaborate on nothing
